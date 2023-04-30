@@ -1,0 +1,12 @@
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\BinOut\Ortak_Sinav_Txt_Kontrol.exe.config
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\BinOut\Ortak_Sinav_Txt_Kontrol.exe
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\BinOut\Ortak_Sinav_Txt_Kontrol.pdb
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\Ortak_Sinav_Txt_Kontrol\obj\Release\Ortak_Sinav_Txt_Kontrol.csproj.AssemblyReference.cache
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\Ortak_Sinav_Txt_Kontrol\obj\Release\Ortak_Sinav_Txt_Kontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\Ortak_Sinav_Txt_Kontrol\obj\Release\Ortak_Sinav_Txt_Kontrol.MainForm.resources
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\Ortak_Sinav_Txt_Kontrol\obj\Release\Ortak_Sinav_Txt_Kontrol.Properties.Resources.resources
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\Ortak_Sinav_Txt_Kontrol\obj\Release\Ortak_Sinav_Txt_Kontrol.csproj.GenerateResource.cache
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\Ortak_Sinav_Txt_Kontrol\obj\Release\Ortak_Sinav_Txt_Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\Ortak_Sinav_Txt_Kontrol\obj\Release\Ortak_Sinav_Txt_Kontrol.csproj.CopyComplete
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\Ortak_Sinav_Txt_Kontrol\obj\Release\Ortak_Sinav_Txt_Kontrol.exe
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\Ortak_Sinav_Txt_Kontrol\obj\Release\Ortak_Sinav_Txt_Kontrol.pdb

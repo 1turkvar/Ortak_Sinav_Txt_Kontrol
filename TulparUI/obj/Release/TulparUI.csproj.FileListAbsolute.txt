@@ -1,0 +1,8 @@
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\BinOut\TulparUI.dll
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\BinOut\TulparUI.pdb
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\TulparUI\obj\Release\TulparUI.csproj.AssemblyReference.cache
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\TulparUI\obj\Release\TulparUI.Properties.Resources.resources
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\TulparUI\obj\Release\TulparUI.csproj.GenerateResource.cache
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\TulparUI\obj\Release\TulparUI.csproj.CoreCompileInputs.cache
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\TulparUI\obj\Release\TulparUI.dll
+C:\Users\semih\OneDrive\Masaüstü\Ortak_Sinav_Txt_Kontrol\TulparUI\obj\Release\TulparUI.pdb

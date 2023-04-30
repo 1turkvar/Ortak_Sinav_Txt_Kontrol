@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ortak_Sinav_Txt_Kontrol", "Ortak_Sinav_Txt_Kontrol\Ortak_Sinav_Txt_Kontrol.csproj", "{5F513EDD-7E91-4959-BF81-415B328BBCA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TulparUI", "TulparUI\TulparUI.csproj", "{931E964A-03EE-4BFD-8422-A7640223DCDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F513EDD-7E91-4959-BF81-415B328BBCA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F513EDD-7E91-4959-BF81-415B328BBCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F513EDD-7E91-4959-BF81-415B328BBCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F513EDD-7E91-4959-BF81-415B328BBCA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931E964A-03EE-4BFD-8422-A7640223DCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931E964A-03EE-4BFD-8422-A7640223DCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931E964A-03EE-4BFD-8422-A7640223DCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931E964A-03EE-4BFD-8422-A7640223DCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82CCEF66-1A62-4DCD-B266-1BFFBE0DB4BD}
+	EndGlobalSection
+EndGlobal
